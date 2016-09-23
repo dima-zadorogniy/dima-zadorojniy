@@ -1,0 +1,11 @@
+    ol {
+      text-align: left;
+      font-size: 1.2em;
+      color: Sienna;
+    }
+    a:hover {
+      text-decoration: none;
+    }
+    footer {
+      border-bottom: 2px dashed #000;
+    }
