@@ -1,0 +1,45 @@
+body,
+html {
+	margin:0;
+	padding:0;
+	background:#fff;
+	color:#000;
+}
+.body {
+	width:960px;
+	margin: 0 auto;
+	background:#ddd;
+}
+.header {
+	background:#fdd;
+	padding: 30px 30px;
+}
+.content-1 {
+	background:#bfb;
+	float: left;
+	width: 240px;
+	height: 482px;
+	text-align: center
+} 
+.content-2 {
+	float:right;
+	width: 720px;
+}
+.content-2-1 {
+	background:#ddf;
+	float:left;
+	width:480px;
+
+}
+.content-2-2 {
+	background:#dff;
+	float:right;
+	width:240px;
+	height: 482px;
+	text-align: center
+}
+.footer {
+	clear: both;
+	background:#ff9
+
+}
