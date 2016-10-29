@@ -1,0 +1,18 @@
+@import "fonts.css";
+
+h1 {
+	font-weight: normal;
+}
+
+.Thin{
+	font-family: "bt";
+}
+.Light{
+	font-family: "bl";
+}
+.Book{
+	font-family: "bb";
+}
+.Regular{
+	font-family: "br";
+}
